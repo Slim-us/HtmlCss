@@ -1,0 +1,127 @@
+.navbaralo{
+    
+        display: flex;
+        justify-content: space-around;
+   
+}
+.navbar-nav{
+    display: flex;
+    margin-left: 783px;
+    font-size: 20px;
+    font-family: sans-serif;
+    justify-content: space-between;
+}
+.sec1{
+    background-color: darkslateblue;
+}
+.a1{
+    margin:6px;
+    color:white;
+    text-decoration: underline;
+
+}
+.a2{
+    margin:8px;
+    color:rgb(53, 52, 52);
+}
+.a3{
+    margin:7px;
+    color:rgb(53, 52, 52);
+}
+.a2:hover{
+    text-decoration: underline;
+}
+.a3:hover{
+    text-decoration: underliness;
+}
+.navbar-brand{
+margin-left: 5px;
+margin-top: 10px;
+color:white;
+font-family:sans-serif;
+}
+.text1{
+    text-align: center;
+    margin-bottom: 127px;
+    margin-top: 188px;
+    color: red;
+    font-size: 61px;
+    font-family: sans-serif;
+}
+.text2{
+    text-align: center;
+    color:white;
+    font-family: sans-serif;
+}
+.imagee{
+    text-align: center;
+    margin-top:171px;
+    margin-left: 720px;
+}
+.navbaraloe{
+    display: flex;
+    justify-content: space-around;
+    background-color: #96a1ad;
+    margin: -7px;
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+}
+.navbar-nave{
+display: flex;
+margin-left: 783px;
+font-size: 20px;
+font-family: sans-serif;
+justify-content: space-between;}
+.navbar-brande{
+    color: white;
+}
+.lol{
+    text-align: center;
+    
+}
+.part1{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 30px;
+    margin-right: 150px;
+
+}
+.part2{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 30px;
+    margin-right: 150px;
+}
+.dd{
+    background-color: rgb(79, 10, 148);
+}
+.navbaraloee{
+    display: flex;
+    justify-content: space-around;
+    background-color: #96a1ad;
+    margin: -7px;
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+}
+.navbar-navee{
+display: flex;
+margin-left: 783px;
+font-size: 20px;
+font-family: sans-serif;
+justify-content: space-between;}
+.navbar-brandee{
+    color: white;
+}
+.container{
+    background-color: yellow;
+    
+}
+.imaga{
+    background-color: yellow;
+    
+}
+.aloba{
+ margin-left: 770px;
+}
